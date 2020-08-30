@@ -1,0 +1,26 @@
+_repo: Hanen-poikansa-Kolminaytoksinen-hiljainen-komedia_62980
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kivijärvi, Erkki
+    alias: Kivijarvi, Erkki
+    birthdate: 1882
+    deathdate: 1942
+    gutenberg_agent_id: '46143'
+    url: http://www.gutenberg.org/2009/agents/46143
+    wikipedia: https://fi.wikipedia.org/wiki/Erkki_Kivij%C3%A4rvi
+description: ''
+gutenberg_issued: '2020-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62980'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Hänen poikansa: Kolminäytöksinen hiljainen komedia'
+url: http://www.gutenberg.org/ebooks/62980
